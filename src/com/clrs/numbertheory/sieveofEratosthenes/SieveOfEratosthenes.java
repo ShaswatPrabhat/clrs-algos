@@ -23,6 +23,6 @@ public class SieveOfEratosthenes {
     }
 
     public static void main(String[] args) {
-        sieveOfEratosthenes(10000L);
+        sieveOfEratosthenes(100000L);
     }
 }
