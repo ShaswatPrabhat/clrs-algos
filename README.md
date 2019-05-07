@@ -1,2 +1,1 @@
-# clrs-algos
-A collection of Java implementation of CLRS algorithm Bible
+A basic Java repository of CLRS Algorithms.
